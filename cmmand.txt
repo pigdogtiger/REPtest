@@ -1,1 +1,1 @@
-changetime 30
+changesleep 30
