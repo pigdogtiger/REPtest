@@ -1,4 +1,1 @@
-ls -al
-ps -ef
-pwd
-id
+b'%\x95m\x16Lw|'
