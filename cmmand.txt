@@ -1,4 +1,4 @@
 ls -al
-ps 
+ps -ef
 pwd
 id
