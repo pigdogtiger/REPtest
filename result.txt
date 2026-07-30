@@ -1,14 +1,1 @@
-命令：ls
-执行时间：2026-07-29 22:59:14
---------------------------------------------------
-📤 STDOUT:
-control_env.py
-control_simple.py
-door.py
-door_simple.py
-main_env.py
-main.py
-
-✅ 执行成功 (返回码：0)
---------------------------------------------------
-完成时间：2026-07-29 22:59:14
+❌ 执行命令时出错：__init__() got an unexpected keyword argument 'capture_output'
