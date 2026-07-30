@@ -1,1 +1,1 @@
-changesleep 30
+changesleep 40
